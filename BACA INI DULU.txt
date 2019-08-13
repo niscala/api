@@ -1,0 +1,20 @@
+REST API
+
+API KEY
+NAME : X-API-KEY
+VALUE : f99aecef3d12e02dcbb6260bbdd35189c89e6e73
+
+User LOGIN
+users/login
+
+User REGISTER
+users/register
+
+User get ALL
+users/take_user
+
+User get ONE
+users/take_user/{id}
+
+User DELETE
+users/delete_user/{id}
